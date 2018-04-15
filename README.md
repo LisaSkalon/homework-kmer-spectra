@@ -12,13 +12,13 @@ required arguments:
 optional arguments:  
   -h, --help            show this help message and exit    
   -k Int, --kmersize Int  
-                        Kmer size  (def 15)
+                        Kmer size  (def 15)  
   -q Int, --quality Int  
-                        Nucleotide quality (def 35) 
-  -x Int, --xlim Int    limit of x axis  (def 150)
-  -y Int, --ylim Int    limit of y axis  (def 150000)
+                        Nucleotide quality (def 35)   
+  -x Int, --xlim Int    limit of x axis  (def 150)  
+  -y Int, --ylim Int    limit of y axis  (def 150000)  
   -z Int, --granizza Int  
-                        limit of kmer spectra  (def 25)
+                        limit of kmer spectra  (def 25)  
                         
 ## Example 
 input:  
