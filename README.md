@@ -28,7 +28,7 @@ output:
 
 ![plot](https://github.com/LisaSkalon/homework-kmer-spectra/blob/master/plot1.pdf)
 
-Genome size before cutting: 8321680.33333
+Genome size before cutting: 8321680.33333  
 Genome size after cutting: 6805546.0 
 
 
